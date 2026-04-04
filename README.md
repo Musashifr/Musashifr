@@ -41,31 +41,19 @@
 
 <br>
 
-<div align="center">
-  <h2>📊 Minhas Estatísticas</h2>
-  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=byMegane&theme=tokyonight&fire=FE7E48&ring=FE7E48&sideNums=FE7E48&stroke=FE7E48&currStreakLabel=FE7E48" />
-  <br>
-  <img height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=byMegane&show_icons=true&theme=tokyonight&border_color=FE7E48&icon_color=FE7E48&title_color=FE7E48&custom_title=Estatísticas%20do%20Rodrigo" />
-  <img height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=byMegane&layout=compact&langs_count=7&theme=tokyonight&border_color=FE7E48&title_color=FE7E48" />
-</div>
 
-<br>
-
-<p align="center">
-  <img src="https://github.com/byMegane/byMegane/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 <div align="center">
-  <h2>🤝 Conecte-se comigo</h2>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rodrigoglasses@gmail.com" target="_blank">
+  <h2>🤝 Se comunique comigo</h2>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tecplay541@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=%23D30445" />
   </a> 
   &nbsp;
-  <a href="https://discord.com/users/764240536675811369" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Megane&logo=discord&label=Discord&color=7289DA&logoColor=white&style=for-the-badge" />
+  <a href="https://discord.com/users/532263092487454730" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Musashi&logo=discord&label=Discord&color=7289DA&logoColor=white&style=for-the-badge" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/rodrigo_glasses/" target="_blank">
+  <a href="https://www.instagram.com/iblamekaua/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
