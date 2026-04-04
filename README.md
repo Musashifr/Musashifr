@@ -5,19 +5,18 @@
 
 <h1 align="center">
   <img src="https://github.com/Musashifr/Musashifr/blob/main/akikon.png?raw=true" width="50px">
-  <span>Vai Se FUDER!! 👀🥀</span>
+  <span>Vai Se FUDER!! 👀</span>
 </h1>
 
 <p align="center"> 
   Olá!! Meu nome é <b>Kauã Belasqui</b>, mas também sou chamado de <b>Musashi</b>, tenho 16 anos e moro em Olímpia-SP. Estou atualmente no ensino médio, estudando Desenvolvimento de Sistemas na ETEC.
 
-<br>
-<br>
-<br>
+
+
 <p align="center">
-  <img src="https://github.com/Musashifr/Musashifr/blob/main/konhand.webp?raw=true" width="90px">
+  <img src="https://github.com/Musashifr/Musashifr/blob/main/konhand.webp?raw=true" width="200px">
 </p>
-<br>
+
 
 <div align="center">
   <h2>Linguagens que estou aprendendo</h2>
